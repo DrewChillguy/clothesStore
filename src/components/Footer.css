@@ -1,0 +1,17 @@
+.footer-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+.footer-brand{
+    font-size: 2rem;
+}
+.footer-nav{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 30px;
+}

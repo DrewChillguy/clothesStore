@@ -1,0 +1,28 @@
+.offer {
+  background: linear-gradient(180deg, rgb(255, 226, 249), white 60%);
+  width: 70%;
+  height: 420px;
+  margin: 0 auto 10rem auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: end;
+}
+.offer-title{
+    font-size: 5rem;
+    font-weight: 500;
+}
+.offer-sub-title{
+    margin-bottom: 30px;
+}
+.check-now{
+    font-size: 18px;
+    padding: 15px 80px;
+    border: none;
+    border-radius: 30px;
+    background-color: rgb(255, 65, 65);
+    color: white;
+    cursor: pointer;
+}
+.offer img {
+    height: 500px;
+}
